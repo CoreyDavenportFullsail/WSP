@@ -14,12 +14,6 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'BebasNeue-webfont', Arial, sans-serif;
 }
 
-h1 {
-	font-size: 50px;
-	letter-spacing: 2px;
-	margin-bottom: 15px;
-
-}
 
 .header-container {
     border-bottom: none;
@@ -30,21 +24,14 @@ nav a {
         float: left;
         width: 27%;
         margin: 0 1%;
-        padding: 20px 2%;
+        padding: 15px 2%;
         margin-bottom: 10px;
         margin-top: 10px;
         font-size: 14px;
     }
 
 
- #login{
-	border: 1px solid #ffffff;
-	-webkit-border-radius: 10px;
-	-moz-border-radius: 10px;
-	border-radius: 10px;
-	height: 10px;
 
-}
 
 
 .header-container,
